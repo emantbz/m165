@@ -41,7 +41,7 @@ Bestellungen:
 Alle Collections wurden mit dem Befehl `drop()` gelöscht, um eine saubere Ausgangslage zu schaffen.
 
 Screenshot:
-![Drop](assets/daten-d.png)
+![Drop](assets/daten-delete.png)
 
 ---
 
@@ -53,8 +53,6 @@ Screenshot:
 Screenshots:
 
 ![Delete Befehle](assets/deleteone-deletemany.png)
-
-![Ergebnis Delete](assets/daten-delete.png)
 
 ---
 
