@@ -21,16 +21,16 @@ Die Daten enthalten Produkte, Kunden und Bestellungen mit Datum.
 Screenshots:
 
 Collections:
-![Collections](database-collections.png)
+![Collections](assets/database-collections.png)
 
 Produkte:
-![Produkte](produkte-data.png)
+![Produkte](assets/produkte-data.png)
 
 Kunden:
-![Kunden](kunden-data.png)
+![Kunden](assets/kunden-data.png)
 
 Bestellungen:
-![Bestellungen](bestellungen-data.png)
+![Bestellungen](assets/bestellungen-data.png)
 
 ---
 
@@ -41,7 +41,7 @@ Bestellungen:
 Alle Collections wurden mit dem Befehl `drop()` gelöscht, um eine saubere Ausgangslage zu schaffen.
 
 Screenshot:
-![Drop](daten-d.png)
+![Drop](assets/daten-d.png)
 
 ---
 
@@ -52,9 +52,9 @@ Screenshot:
 
 Screenshots:
 
-![Delete Befehle](deleteone-deletemany.png)
+![Delete Befehle](assets/deleteone-deletemany.png)
 
-![Ergebnis Delete](daten-delete.png)
+![Ergebnis Delete](assets/daten-delete.png)
 
 ---
 
@@ -73,7 +73,7 @@ Folgende Anforderungen wurden umgesetzt:
 - Projektion ohne _id
 
 Screenshot:
-![Find Befehle](find-befehle.png)
+![Find Befehle](assets/find-befehle.png)
 
 ---
 
@@ -88,10 +88,10 @@ Die Daten wurden mit folgenden Befehlen verändert:
 Screenshots:
 
 Update Befehle:
-![Update Befehle](update-befehle.png)
+![Update Befehle](assets/update-befehle.png)
 
 Ergebnis:
-![Update Ergebnis](update-ergebnis.png)
+![Update Ergebnis](assets/update-ergebnis.png)
 
 ---
 
