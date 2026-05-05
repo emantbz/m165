@@ -1,0 +1,15 @@
+{
+    "bsonType": "object",
+    "required": ["name", "preis", "kategorie"],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "preis": {
+        "bsonType": "int"
+      },
+      "kategorie": {
+        "bsonType": "string"
+      }
+    }
+  }

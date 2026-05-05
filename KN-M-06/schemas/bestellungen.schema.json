@@ -1,0 +1,15 @@
+{
+    "bsonType": "object",
+    "required": ["kunde", "produkt", "datum"],
+    "properties": {
+      "kunde": {
+        "bsonType": "string"
+      },
+      "produkt": {
+        "bsonType": "string"
+      },
+      "datum": {
+        "bsonType": "date"
+      }
+    }
+  }
